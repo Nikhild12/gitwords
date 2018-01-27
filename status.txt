@@ -1,1 +1,0 @@
-the content of the status are used for git
